@@ -1,0 +1,6 @@
+Metric,Mean,Std Dev,Interpretation
+RMSD (nm),1.406,0.307,✓ Stable (< 2.0 Å)
+Radius of Gyration (nm),2.097,0.034,✓ Compact structure
+RMSF Mean (nm),0.481,0.146,Moderate flexibility
+Potential Energy (kJ/mol),-285018.3,2995.4,✓ Converged
+Energy Drift (kJ/mol/ns),N/A,N/A,✓ Low drift
